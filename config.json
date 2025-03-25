@@ -1,0 +1,10 @@
+{
+    "news_sources": [
+        {
+            "name": "テスト製品",
+            "url": "https://api.example.com/news",
+            "keywords": ["テスト"],
+            "members": "@your_name"
+        }
+    ]
+}
